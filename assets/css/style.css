@@ -1,0 +1,102 @@
+span {
+    font-size: 14px;
+}
+
+.card-title {
+    /* margin: 15px 0px 15px 60px; */
+    color: #000;
+}
+
+
+/* login-Admin */
+
+.bg-login-admin {
+    background: #192357;
+    background-size: cover;
+    width: 100%;
+    margin: 0 auto;
+    min-height: 100vh;
+}
+
+.border-left-orange {
+    border-left: 0.5rem solid #ff5935 !important;
+}
+
+.auth-login {
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 150px 0px 0px 0px;
+}
+
+.img-login {
+    text-align: center;
+    margin: auto;
+}
+
+
+/* Nav */
+
+.backgroud-nav {
+    background-color: #64c0c9;
+    background-size: cover;
+}
+
+.backgroud-nav-side {
+    background-color: #93dde4;
+}
+
+.fa {
+    font-size: 2rem;
+}
+
+.sidebar-dark .nav-item .nav-link i {
+    color: #f5fefd;
+}
+
+.sidebar-dark .nav-item .nav-link {
+    color: #f5fefd;
+}
+
+
+/* Topbar */
+
+.image-admin {
+    border-radius: 50%;
+    color: black;
+}
+
+.title_user {
+    color: black;
+}
+
+
+/* Main */
+
+.row {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-right: -0.75rem;
+    margin-left: -0.75rem;
+}
+
+.text-main {
+    color: #192357;
+}
+
+.btn-warning-action {
+    color: rgb(0, 0, 0);
+    background-color: none;
+    border-color: #f6c23e;
+}
+
+.btn-warning-action:hover {
+    color: rgb(0, 0, 0);
+    background-color: #f6c23e;
+    border-color: #f6c23e;
+}
